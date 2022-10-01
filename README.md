@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 📄 Know about my experiences [Here]()
 
-- 💬 Ask me about **anything on tech.**
+
+
 
 - 📫 You can reach me on **sibunmohanty8@gmail.com**
 
